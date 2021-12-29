@@ -1,3 +1,7 @@
+#Shishir Khanal
+#ROS Actions by Eduoard Renard
+#SimpleAction server to retrive the goal and provess the motion for the robot
+
 #!/usr/bin/env python
 
 import rospy
