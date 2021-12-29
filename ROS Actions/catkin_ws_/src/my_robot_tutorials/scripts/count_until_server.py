@@ -1,3 +1,7 @@
+#Shishir Khanal
+#ROS Actions by Eduoard Renard
+#SimpleAction server to retrieve and process the goal
+
 #!/usr/bin/env python
 
 import rospy
