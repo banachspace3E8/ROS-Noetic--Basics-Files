@@ -1,3 +1,7 @@
+#Shishir Khanal
+#ROS Actions by Eduoard Renard
+#SimpleAction client to send the goal to the server to move a robot
+
 #!/usr/bin/env python
 
 import rospy
