@@ -1,3 +1,7 @@
+#Shishir Khanal
+#ROS Actions by Eduoard Renard
+#Action server to retrieve and process the goal using queue
+
 #!/usr/bin/env python
 
 import threading
