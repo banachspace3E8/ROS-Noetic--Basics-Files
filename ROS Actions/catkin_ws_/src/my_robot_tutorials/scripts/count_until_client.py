@@ -1,3 +1,7 @@
+#Shishir Khanal
+#ROS Actions by Eduoard Renard
+#SimpleAction client to send the goal to the server
+
 #!/usr/bin/env python
 
 import rospy
